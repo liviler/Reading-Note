@@ -1,7 +1,7 @@
 <font face=仿宋 size=2>
 
 记录读一些书的读后感......  
->标签：`思维`
+>标签：`思维``计算机网络``人工智能`
 
 
 
@@ -20,6 +20,7 @@
 |2. 舆论学实务教程|
 |3. 生命3.0|
 |4. 云边有个小卖部|
+|5.[网络是怎样连接的](https://github.com/liviler/Reading-Note/blob/master/books/%E7%BD%91%E7%BB%9C%E6%98%AF%E6%80%8E%E6%A0%B7%E8%BF%9E%E6%8E%A5%E7%9A%84.pdf)|
 
 
 
